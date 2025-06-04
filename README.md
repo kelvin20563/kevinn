@@ -1,42 +1,37 @@
-Key Features of the Cafe Website
-Modern, Responsive Design - Fully mobile-friendly layout that works on all devices
+    crew website
+    
+This YouthConnect website includes:
 
-Trusted Partners Slider - Smooth, automatic logo slider with hover effects
+Modern Header with logo and navigation
 
-Collapsible FAQ Section - Interactive questions that expand when clicked
+Hero Section with welcoming message and call-to-action buttons
 
-Coffee-Themed Color Scheme - Warm, inviting colors inspired by coffee tones
+About Section with mission statement and verse of the week
 
-Complete Cafe Sections:
+Events Section with upcoming events in card format
 
-Hero banner with call-to-action buttons
+Devotions Section with latest spiritual content
 
-About section with coffee journey story
+Gallery Section with images from youth activities
 
-Specialty menu with categorized items
+Join Us Section with service opportunities and signup form
 
-Trusted partners slider
+Prayer Wall for submitting and viewing prayer requests
 
-FAQ section with collapsible answers
+Comprehensive Footer with contact info and social media
 
-Contact form with location details
+The design features:
 
-Comprehensive footer
+Modern color scheme with purple/blue tones and pink accents
 
-Interactive Elements:
+Responsive layout that works on all devices
 
-Hover effects on menu items
+Interactive elements with hover effects
 
-Smooth navigation
+Clean typography with Poppins and Montserrat fonts
 
-Animated logo slider
+Smooth scrolling navigation
 
-Interactive FAQ section
-
-Responsive form
-
-The "Our Trusted Partners" section features a seamless, automatic logo slider with hover effects that turn logos to full color when users mouse over them. The slider uses a CSS animation to create a continuous scrolling effect.
-
-The collapsible FAQ section allows users to click on questions to reveal answers, with smooth animations and visual indicators. The website maintains a consistent coffee-inspired aesthetic throughout all sections.
+Mobile-friendly menu
 
 
